@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
-options: "8d4d7759830143404b4146366ab4952a"
-build_time: [1517719222, 233010000]
-inputs:
-  "/Users/federicobustosfierro/Documents/EventosSirioLibanes/EventosSirioLibanes/ViewController.swift": [1517709341, 0]
-  "/Users/federicobustosfierro/Documents/EventosSirioLibanes/EventosSirioLibanes/AppDelegate.swift": [1517719220, 0]
-  "/Users/federicobustosfierro/Documents/EventosSirioLibanes/EventosSirioLibanes/HomeViewController.swift": [1517711340, 0]
